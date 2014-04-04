@@ -1,0 +1,2 @@
+-- haskell sublimetext on windows settings
+http://stackoverflow.com/questions/304614/haskell-on-windows-setup
